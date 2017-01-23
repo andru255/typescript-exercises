@@ -2,6 +2,6 @@
 
 Repo con fines de aprendizaje, por el momento se tienen los siguientes ejercicios:
 
-- [Alert Message](tree/master/00_alert-message)
+- [Alert Message](https://github.com/andru255/typescript-exercices/tree/master/00_alert-message)
 
-- [Node Says](tree/master/01_node-says)
+- [Node Says](https://github.com/andru255/typescript-exercices/tree/master/01_node-says)
