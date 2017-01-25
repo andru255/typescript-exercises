@@ -6,4 +6,4 @@ Repo con fines de aprendizaje, por el momento se tienen los siguientes ejercicio
 
 - [Node Says](https://github.com/andru255/typescript-exercices/tree/master/01_node-says)
 
-- [IO text](https://github.com/andru255/typescript-exercices/tree/master/02_io-text)
+- [IO word](https://github.com/andru255/typescript-exercices/tree/master/02_io-word)

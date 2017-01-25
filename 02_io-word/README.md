@@ -1,4 +1,4 @@
-# IO text
+# IO word
 
 Ejercicio en donde se debe crear un archivo y correrlo bajo la consola de node.
 
@@ -14,7 +14,7 @@ al ejecutar esa linea debe mostrar:
 
 ## Objetivos
 
-- **Uso de tipos de dato básicos**, Usamos el tipo de dato string.
+- **Uso de tipos de dato básicos**, Usamos el tipo de dato string y el uso de un Array que solamente contiene strings.
 - **Obtener parametros en consola**, Obtener el parámetro que pasamos por consola para que el programa compilado lo lea.
 - **instalando algo nuevo.. typings**, Conocemos cómo se instala el paquete **typings** que nos facilita a que typescript defina de que tipo es el objeto process y qué contiene
 - **Uso de TypeScript en consola**, transpilar vía comando.
