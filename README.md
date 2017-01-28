@@ -7,3 +7,7 @@ Repo con fines de aprendizaje, por el momento se tienen los siguientes ejercicio
 - [Node Says](https://github.com/andru255/typescript-exercices/tree/master/01_node-says)
 
 - [IO word](https://github.com/andru255/typescript-exercices/tree/master/02_io-word)
+
+- [Single Calc v1.0](https://github.com/andru255/typescript-exercices/tree/master/03_single-calc-v1)
+
+- [Single Calc v2.0](https://github.com/andru255/typescript-exercices/tree/master/04_single-calc-v2)
