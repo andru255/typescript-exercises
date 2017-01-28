@@ -41,11 +41,17 @@ al ejecutar esa linea debe mostrar:
 
 > typings install env~node --global --save
 
-- Este comando al ejecutarlo guardará la definición del objeto "process" para que ts lo comprenda, aparecerá una carpeta **typings** creada en la carpeta del ejercicio, esa carpeta contiene la definición del objeto **process** de node, ejecutamos de nuevo:
+- Este comando al ejecutarlo guardará la definición del objeto "process" para que al correr el comando **tc** lo comprenda, aparecerá una carpeta **typings** creada en la carpeta del ejercicio, esa carpeta contiene la definición del objeto **process** de node, ejecutamos de nuevo:
 
 > tsc
 
 - Si no muestra error es porque todo está bien, en caso contrario favor de crear un issue en este repo.
+
+- Otra observación a este punto es que se creará un archivo llamado **typings.json**.
+
+- Bajo GIT podemos actualizar el archivo .gitignore y agregar **typings** indicando que dicha carpeta no sea agregada en tu repo, como ya tenemos ese archivo llamado **typings.json**, nos dirigimos a la carpeta del ejercicio y se aplica este comando.
+
+> typings install
 
 ## Cómo visualizarlo?
 

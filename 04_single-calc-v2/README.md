@@ -58,6 +58,10 @@ deberá mostrar en consola:
 
 - Si no muestra error es porque todo está bien, en caso contrario favor de crear un issue en este repo.
 
+- Otra observación a este punto es que se creará un archivo llamado **typings.json**.
+
+- Bajo GIT podemos actualizar el archivo .gitignore y agregar **typings** indicando que dicha carpeta no sea agregada en tu repo, como ya tenemos ese archivo llamado **typings.json**, nos dirigimos a la carpeta del ejercicio y se aplica este comando.
+
 ## Cómo visualizarlo?
 
 - Una vez que la transpilacion sea satisfactoria, abrir una consola o terminal y ejecutar el siguiente comando:
