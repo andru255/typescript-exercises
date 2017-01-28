@@ -29,7 +29,7 @@ al ejecutar esa linea debe mostrar:
 
 > npm install -g typescript typings
 
-> cd 03_io-text
+> cd 02_io-word
 
 > tsc --init
 
