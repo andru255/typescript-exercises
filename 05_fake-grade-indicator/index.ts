@@ -1,11 +1,11 @@
 window.onload = ()=>{
     //referencio el element html "indicator"
-    let indicator:HTMLElement = document.getElementById("indicator");
+    let indicador:HTMLElement = document.getElementById("indicador");
 
     setInterval(()=>{
         //genero el numero aleatorio
-        let randomNumber:number = Math.random() * 100;
+        let gradoAleatorio:number = Math.random() * 100;
         //Ingreso el nuevo valor en el elemento para mostrarlo
-        indicator.innerHTML = randomNumber.toString();
+        indicador.innerHTML = gradoAleatorio.toString();
     }, 500);
 };
