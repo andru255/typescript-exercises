@@ -15,3 +15,7 @@ Repo con fines de aprendizaje, por el momento se tienen los siguientes ejercicio
 - [Fake grade indicator](https://github.com/andru255/typescript-exercices/tree/master/05_fake-grade-indicator)
 
 - [Configurable Fake grade indicator](https://github.com/andru255/typescript-exercices/tree/master/06_configurable-fake-grade-indicator)
+
+- [Approved or not](https://github.com/andru255/typescript-exercices/tree/master/07_approved-or-not)
+
+- [They are equals](https://github.com/andru255/typescript-exercices/tree/master/08_they-are-equals)
