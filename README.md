@@ -19,3 +19,7 @@ Repo con fines de aprendizaje, por el momento se tienen los siguientes ejercicio
 - [Approved or not](https://github.com/andru255/typescript-exercices/tree/master/07_approved-or-not)
 
 - [They are equals](https://github.com/andru255/typescript-exercices/tree/master/08_they-are-equals)
+
+- [Single flag](https://github.com/andru255/typescript-exercices/tree/master/09_single-flag)
+
+- [Uppercase flag](https://github.com/andru255/typescript-exercices/tree/master/10_uppercase-flag)
