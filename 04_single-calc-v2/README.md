@@ -11,6 +11,7 @@ Debe constar de la siguiente funcionalidad:
 al ejecutar esa linea debe mostrar:
 
 > Números ingresados:  [ 1, 2, 3, 4, 5 ]
+
 > TOTAL : 15
 
 en caso un parámetro no sea un número, por ejemplo:
@@ -20,14 +21,16 @@ en caso un parámetro no sea un número, por ejemplo:
 deberá mostrar en consola:
 
 > ERROR: El valor  prueba , no es un número
+
 > Números ingresados:  []
+
 > TOTAL : 0
 
 ## Objetivos
 
 - **Uso de tipos de dato básicos**, Usamos el tipo de dato string, el uso de un Array que solamente contiene strings, también conocer la función isNaN y usamos estructuras de control tanto condicionales como iterativas.
 - **Obtener parametros en consola**, Obtener el parámetro que pasamos por consola para que el programa compilado lo lea.
-- **instalando algo nuevo.. typings**, Conocemos cómo se instala el paquete **typings** que nos facilita a que typescript defina de que tipo es el objeto process y qué contiene
+- **Instalando algo nuevo.. typings**, Conocemos cómo se instala el paquete **typings** que nos facilita a que typescript defina de que tipo es el objeto process y qué contiene
 - **Uso de TypeScript en consola**, transpilar vía comando.
 
 ## Qué se necesita

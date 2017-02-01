@@ -11,7 +11,9 @@ Debe constar de la siguiente funcionalidad:
 al ejecutar esa linea debe mostrar:
 
 > A : 5
+
 > B : 10
+
 > TOTAL : 15
 
 en caso un parámetro no sea un número, deberá mostrar en consola:
@@ -22,7 +24,7 @@ en caso un parámetro no sea un número, deberá mostrar en consola:
 
 - **Uso de tipos de dato básicos**, Usamos el tipo de dato string, el uso de un Array que solamente contiene strings, también conocer la función isNaN y usamos una estructura de control.
 - **Obtener parametros en consola**, Obtener el parámetro que pasamos por consola para que el programa compilado lo lea.
-- **instalando algo nuevo.. typings**, Conocemos cómo se instala el paquete **typings** que nos facilita a que typescript defina de que tipo es el objeto process y qué contiene
+- **Instalando algo nuevo.. typings**, Conocemos cómo se instala el paquete **typings** que nos facilita a que typescript defina de que tipo es el objeto process y qué contiene
 - **Uso de TypeScript en consola**, transpilar vía comando.
 
 ## Qué se necesita

@@ -13,13 +13,17 @@ Debe constar de la siguiente funcionalidad:
 al ejecutar debe comparar con el número generado aleatorio, si son iguales, debe mostrar:
 
 > número de nodejs: 4
+
 > número ingresado: 4
+
 > Felicitaciones!
 
 En caso contrario:
 
 > número de nodejs: 2
+
 > número ingresado: 4
+
 > Intenta de nuevo
 
 ## Objetivos
