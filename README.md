@@ -23,3 +23,9 @@ Repo con fines de aprendizaje, por el momento se tienen los siguientes ejercicio
 - [Single flag](https://github.com/andru255/typescript-exercices/tree/master/09_single-flag)
 
 - [Uppercase flag](https://github.com/andru255/typescript-exercices/tree/master/10_uppercase-flag)
+
+- [Basic profile](https://github.com/andru255/typescript-exercices/tree/master/11_basic-profile)
+
+- [Single merge](https://github.com/andru255/typescript-exercices/tree/master/12_single-merge)
+
+- [Product profile](https://github.com/andru255/typescript-exercices/tree/master/13_product-profile)
