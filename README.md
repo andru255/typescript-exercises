@@ -1,4 +1,4 @@
-# TypeScript exercices
+# TypeScript exercises
 
 Repo con fines de aprendizaje, por el momento se tienen los siguientes ejercicios:
 
